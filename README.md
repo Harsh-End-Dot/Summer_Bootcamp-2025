@@ -78,7 +78,6 @@ Predict the price category of mobile phones based on their hardware specificatio
 
 ### 🚗 Mini Project 2: Car Insurance Claim Analysis
 
-> **Note**: Add more details in the folder README (if applicable).
 
 **Overview**
 Predict whether a customer is likely to file a car insurance claim, using customer demographic and vehicle data.
